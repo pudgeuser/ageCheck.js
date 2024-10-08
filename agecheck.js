@@ -1,5 +1,3 @@
-// ageCheck.js
-
 // Prompt the user to enter their age
 let age = prompt("Please enter your age:");
 
